@@ -63,6 +63,7 @@
   /* NAV LINKS */
   .navbar-nav .nav-link {
       color: rgb(40, 1, 11);
+      font-size: 14px;
       font-weight: 700;
       position: relative;
       transition: color .3s ease;
